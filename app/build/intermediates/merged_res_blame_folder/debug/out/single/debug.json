@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "com.khalidelkilany.husqvarnadsassigment.app-merged_res-16:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.khalidelkilany.husqvarnadsassigment.app-main-18:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.khalidelkilany.husqvarnadsassigment.app-merged_res-16:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.khalidelkilany.husqvarnadsassigment.app-main-18:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.khalidelkilany.husqvarnadsassigment.app-merged_res-16:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.khalidelkilany.husqvarnadsassigment.app-main-18:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.khalidelkilany.husqvarnadsassigment.app-merged_res-16:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.khalidelkilany.husqvarnadsassigment.app-main-18:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.khalidelkilany.husqvarnadsassigment.app-merged_res-16:/layout_activity_main.xml.flat",
+        "source": "com.khalidelkilany.husqvarnadsassigment.app-main-18:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.khalidelkilany.husqvarnadsassigment.app-merged_res-16:/layout_fragment_recycler_list.xml.flat",
+        "source": "com.khalidelkilany.husqvarnadsassigment.app-main-18:/layout/fragment_recycler_list.xml"
+    },
+    {
+        "merged": "com.khalidelkilany.husqvarnadsassigment.app-merged_res-16:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.khalidelkilany.husqvarnadsassigment.app-main-18:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.khalidelkilany.husqvarnadsassigment.app-merged_res-16:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.khalidelkilany.husqvarnadsassigment.app-main-18:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.khalidelkilany.husqvarnadsassigment.app-merged_res-16:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.khalidelkilany.husqvarnadsassigment.app-main-18:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.khalidelkilany.husqvarnadsassigment.app-merged_res-16:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.khalidelkilany.husqvarnadsassigment.app-main-18:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.khalidelkilany.husqvarnadsassigment.app-merged_res-16:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.khalidelkilany.husqvarnadsassigment.app-main-18:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.khalidelkilany.husqvarnadsassigment.app-merged_res-16:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.khalidelkilany.husqvarnadsassigment.app-main-18:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.khalidelkilany.husqvarnadsassigment.app-merged_res-16:/layout_recycler_list_row.xml.flat",
+        "source": "com.khalidelkilany.husqvarnadsassigment.app-main-18:/layout/recycler_list_row.xml"
+    },
+    {
+        "merged": "com.khalidelkilany.husqvarnadsassigment.app-merged_res-16:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.khalidelkilany.husqvarnadsassigment.app-main-18:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.khalidelkilany.husqvarnadsassigment.app-merged_res-16:/layout_recycler_list_row_movie_details.xml.flat",
+        "source": "com.khalidelkilany.husqvarnadsassigment.app-main-18:/layout/recycler_list_row_movie_details.xml"
+    },
+    {
+        "merged": "com.khalidelkilany.husqvarnadsassigment.app-merged_res-16:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.khalidelkilany.husqvarnadsassigment.app-main-18:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.khalidelkilany.husqvarnadsassigment.app-merged_res-16:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.khalidelkilany.husqvarnadsassigment.app-main-18:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.khalidelkilany.husqvarnadsassigment.app-merged_res-16:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.khalidelkilany.husqvarnadsassigment.app-main-18:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    }
+]
